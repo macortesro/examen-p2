@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Exam</string>
+    <string name="btn_text_registrar">Register</string>
+    <string name="btn_agregar">Add</string>
+
+</resources>
